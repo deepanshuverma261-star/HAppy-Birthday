@@ -4,7 +4,7 @@ const LoveLetter = () => {
     const lettersData = [
         {
             id: 1,
-            name: "Deepanshu",
+            name: "my love❤️",
             msg: "Wish you the happiest birthday",
         },
         {
